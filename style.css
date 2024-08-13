@@ -1,0 +1,39 @@
+*{
+    padding:0%;
+    margin: 0%;
+}
+header,main,footer{
+    padding: 10px;
+    margin: 10px
+}
+header{
+    height: 30px;
+    weight:100%;
+    position: relative;
+}
+h1{
+    color:black;
+    position: relative;
+}
+main{
+    position: relative;
+}
+p{
+    display: flex;
+    flex-direction: column;
+    margin: 25px 0;
+}
+div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.images/image_1723515994354_edit_782586291417245.png{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* 响应式设计语法 */
+@media screen and (max-width:768px) {
+
+}
