@@ -122,8 +122,8 @@ footer{
     }
     header h1{
     left:50%;
-    transform: translateX(-70%);
-    font-size: 23px;
+    transform: translateX(-95%);
+    font-size: 20px;
     top:0;
 }
 .sy h2{
@@ -144,8 +144,8 @@ footer{
     color: white;
     font-size: 20px;
     position: absolute;
-    top:5px;
-    left: 15px;
+    top: 2px;
+    left: 3px;
     height: 40px;
     width: 35px;
     border: none;
@@ -179,24 +179,19 @@ footer{
 }
 .contain img{
     width: 100%;
-    margin: 0 10px;
 }
 .ww img{
    width: 100%;
-   margin: 0 10px;
 }
 .ct img{
     width: 100%;
-    margin: 0 10px;
 }
 .ww{
     width: 100%;
-    margin: 0 10px;
 }
 .ww img{
     width: 100%;
     height: 60%;
-    margin: 0 10px;
 }
 }
 footer{
