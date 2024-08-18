@@ -122,7 +122,7 @@ footer{
     }
     header h1{
     left:50%;
-    transform: translateX(-50%);
+    transform: translateX(-70%);
     font-size: 23px;
     top:0;
 }
@@ -178,19 +178,19 @@ footer{
     width: 100%;
 }
 .contain img{
-    width: 100%;
+    width: 96%;
 }
 .ww img{
-   width: 100%;
+   width: 96%;
 }
 .ct img{
-    width: 100%;
+    width: 96%;
 }
 .ww{
     width: 100%;
 }
 .ww img{
-    width: 100%;
+    width: 96%;
     height: 60%;
 }
 }
