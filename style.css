@@ -78,8 +78,10 @@ html{
     text-indent: 0;
 }
 .esl{
+    margin: 0 10px 0 20px;
     text-align: center;
     line-height: 2em;
+
 }
 .ww img{
     width: 90%;
@@ -131,7 +133,7 @@ footer{
     display: block;
     background-color: transparent;
     color: white;
-    font-size: 30px;
+    font-size: 20px;
     position: absolute;
     top:5px;
     left: 15px;
@@ -141,6 +143,21 @@ footer{
     border-radius: 5px;
     cursor: pointer;
     text-align: center;
+}
+.csone{
+    font-size: 10px;
+}
+.cst{
+    font-size: 10px;
+}
+.cst h3{
+    font-size: 12px;
+}
+.qq h2{
+    font-size: 25px;
+}
+.esl{
+    font-size: 10px;
 }
 .menu:hover{
     background-color: rgba(86, 56, 56);
